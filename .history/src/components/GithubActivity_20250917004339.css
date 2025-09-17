@@ -1,0 +1,5 @@
+.github-activity-container{
+    display: flex;
+    flex-flow: column wrap;
+    place-content: center;
+}

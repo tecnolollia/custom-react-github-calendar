@@ -1,0 +1,11 @@
+.github-activity-container{
+    /* width: 100%; */
+    width: 90dvw;
+    display: flex;
+    flex-flow: row wrap;
+    place-content: center;
+    article{
+        width: 200px;
+        
+    }
+}
